@@ -1,0 +1,5 @@
+{
+  "name": "NH Insurance UI",
+  "description": "A responsive replica of the NH NongHyup Property & Casualty Insurance digital service interface using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
